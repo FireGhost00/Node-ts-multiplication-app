@@ -1,6 +1,7 @@
 {
-    "exclude": ["c:/Users/ngome/Documents/DevTalles/Node/04-MULTIPLICATION/dist"],
+    "exclude": ["node_modules", "dist","src/**/*.test.ts"],
     "include": ["./src/**/*"],
+
 
     "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
